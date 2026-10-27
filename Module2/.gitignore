@@ -1,0 +1,16 @@
+# игнорировать всё
+*
+
+# кроме папок 
+!*/
+
+# исходников и заголовков
+!*.c
+!*.h
+
+# Makefile 
+!Makefile
+!makefile
+
+# и .gitignore
+!.gitignore
